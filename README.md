@@ -1,2 +1,2 @@
 # design-pattern
-设计模式联系
+设计模式练习
